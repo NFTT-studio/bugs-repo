@@ -101,8 +101,10 @@ Severity is decided by likelihood and impact with four levels: critical, severe,
 
 #### In Scope:
 
+
 :information_source: https://github.com/NFTT-studio/NFTMart-Node/tree/dev
 
+NFTMart will add scope in steps.
 
 
 ##### P1 (Critical):

@@ -11,9 +11,9 @@ This bounty brief describes the rules of NFTMart Testnet Bug Bounty Program, as 
 
 
 
-:point_right: Program duration: ***UTC+8 2021.07.13 10:00am - 2020.09.13 10:00am***. 
+:point_right: Program duration: ***UTC+8 2021.07.08 10:00am - 2020.09.08 10:00am***. 
 
-Vulnerabilities submitted before UTC+8 2021.07.13 10:00am and after UTC+8 2020.09.13 10:00am will be considered invalid. 
+Vulnerabilities submitted before UTC+8 2021.07.08 10:00am and after UTC+8 2020.09.08 10:00am will be considered invalid. 
 
 Please upload your vulnerability report in NFTMart GitHub repository - [***Bug repo(Issues)***](https://github.com/NFTT-studio/bugs-repo/issues).
 
@@ -218,7 +218,7 @@ Given that vulnerabilities in P1 level may affect the progress of Bug Bounty Pro
 #### :warning: Attention:warning:
 
 - NFTMart may be reset and dropped due to some vulnerabilities' repairation during the program. Vulnerabilities found in these cases will be considered invalid. 
-- Vulnerabilities which have already known by Substrate will be considered invalid.
+- Vulnerabilities which cause by Substrate will be considered invalid.
 
 
 
